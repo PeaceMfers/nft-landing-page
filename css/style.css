@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Shizuru&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Shizuru', sans-serif;
-  --font-secondary: 'Shizuru', serif;
-  --font-code: 'Shizuru', monospace;
+  --font-primary: 'Fjalla+One', sans-serif;
+  --font-secondary: 'Fjalla+One', serif;
+  --font-code: 'Fjalla+One', monospace;
   --bg-color: #fac7da;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
