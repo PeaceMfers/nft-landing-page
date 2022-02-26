@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Indie+Flower', sans-serif;
-  --font-secondary: 'Indie+Flower', serif;
-  --font-code: 'Indie+Flower', monospace;
+  --font-primary: 'Abel', sans-serif;
+  --font-secondary: 'Abel', serif;
+  --font-code: 'Abel', monospace;
   --bg-color: #fac7da;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
