@@ -1,13 +1,13 @@
 /* FONTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Abel', sans-serif;
-  --font-secondary: 'Abel', serif;
-  --font-code: 'Abel', monospace;
+  --font-primary: 'Righteous', sans-serif;
+  --font-secondary: 'Righteous', serif;
+  --font-code: 'Righteous', monospace;
   --bg-color: #fac7da;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
