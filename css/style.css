@@ -6,7 +6,7 @@
 
 :root {
   --font-primary: 'Righteous', sans-serif;
-  --font-secondary: 'Righteous', serif;
+  --font-secondary: 'Righteous', monospace;
   --font-code: 'Righteous', monospace;
   --bg-color: #fac7da;
   --font-color: #ffffff;
