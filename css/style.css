@@ -147,6 +147,10 @@ section {
   font-size: 3.5rem;
   text-align: center;
 }
+.countdown h2 {
+  color: black;
+  text-align: center;
+}
 
 .countdown p {
   font-size: 1.1rem;
