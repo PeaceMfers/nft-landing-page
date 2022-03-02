@@ -56,6 +56,24 @@ header .container {
   align-items: center;
 }
 
+/* FOOTER */
+
+footer {
+  box-shadow: var(--header-shadow);
+}
+
+footer .container {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
 /* BUTTONS */
 
 .btn {
@@ -149,6 +167,15 @@ section {
 }
 .countdown h2 {
   color: black;
+  text-align: center;
+}
+
+.countdown h3 {
+  text-shadow: 2px 2px 0 var(--accent-color);
+  font-style: italic;
+  color: black;
+  margin: 2rem 0;
+  font-size: 3.5rem;
   text-align: center;
 }
 
